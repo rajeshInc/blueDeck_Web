@@ -1,0 +1,24 @@
+A complete ERP application with full fledged solution on 
+ Human Resource,Customer Management,Incoming and Outgoing assets,Vehicles,Finance,RMC etc
+ with statistical data.
+ 
+Features
+Master Management
+An administrative task which facilitates end user to manage and maintain all core records.
+MDRO Management
+Provides facility to maintain permit numbers for transacted records.
+Customer Management
+This feature helps user to maintain all customer(s) records.
+Material and Inventory Management
+Helps user to define their outgoing and incoming material/aggregates and use it during transaction respectively.
+Transportation Management
+This module facilitates to track vehicles,routines and its energy(fuel) consumption. 
+Transaction Management
+This is an highly automated module which helps user to transact the
+ incoming and outgoing assets.
+Finance Management
+Used to maintain all finance related activities records.
+RMC Management
+A complete RMC solution with modules like Moisture,Dimension,Recipe,Grades etc.
+Statistical Reports
+Provides you various kinds of detailed transacted reports.
