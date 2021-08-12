@@ -34,6 +34,31 @@
 
 <!-- Template Main CSS File -->
 <link href="assets/css/style.css" rel="stylesheet">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
 
 </head>
 
@@ -58,12 +83,9 @@
 							Commitments</a></li>
 
 					<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-					
-					<li><a href="#" data-toggle="modal"
-						onclick="openModal();">
-							<div class="bi bi-bell-fill">
-								Notifications 
-							</div>
+
+					<li><a href="#" data-toggle="modal" onclick="openModal();">
+							<div class="bi bi-bell-fill">Notifications</div>
 					</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
@@ -89,8 +111,8 @@
 			<!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="assets/img/background1.svg" alt="First Slide"
-						style="width: -webkit-fill-available" class="img-fluid">
+					<img src="assets/img/Bluedeck Poster2.svg" alt="Second Slide"
+						style="width: -webkit-fill-available">
 					<div class="carousel-caption"
 						style="margin: 0px auto; width: 50%; left: -25px !important; right: -25px !important; bottom: 270px !important; top: auto !important;">
 						<div class="container" style="width: 80% !important">
@@ -118,8 +140,9 @@
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img src="assets/img/background2.jpg" alt="Second Slide"
-						style="width: -webkit-fill-available">
+					<img src="assets/img/background1.svg" alt="First Slide"
+						style="width: -webkit-fill-available" class="img-fluid">
+					
 					<div class="carousel-caption"
 						style="margin: 0px auto; width: 50%; left: -25px !important; right: -25px !important; bottom: 270px !important; top: auto !important;">
 						<div class="container" style="width: 80% !important">
@@ -222,7 +245,8 @@
 		</section>
 		<!-- End About Us Section -->
 		<!-- ======= Features Section ======= -->
-		<section id="features" class="text-center" style="padding-top: 1px;padding-bottom: 1px;">
+		<section id="features" class="text-center"
+			style="padding-top: 1px; padding-bottom: 1px;">
 
 			<div class="container" data-aos="fade-up">
 				<div class="section-title text-center">
@@ -233,7 +257,7 @@
 					<div class="card-group">
 						<div class="card border-light mb-3">
 							<img src="assets/img/icons/ClientPanel.png" alt="img"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 								<h4 class="card-title">Client Panel</h4>
 								<p class="card-text" style="margin: 0 !important;">A panel
@@ -251,7 +275,7 @@
 						<div class="card border-light mb-3">
 							<img src="assets/img/svg/vector.svg" alt="img"
 								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Plant Master</h4>
@@ -263,7 +287,7 @@
 						<div class="card border-light mb-3">
 							<img src="assets/img/icons/dashboard.png" alt="img"
 								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Custom Dashboard</h4>
@@ -274,7 +298,7 @@
 						<div class="card border-light mb-3">
 							<img src="assets/img/icons/employeeInfo.png" alt="img"
 								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Employee Info</h4>
@@ -288,7 +312,7 @@
 						<div class="card border-light mb-3">
 							<img src="assets/img/icons/TransportationDetails.png" alt="img"
 								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Transportation Details</h4>
@@ -299,7 +323,7 @@
 						<div class="card border-light mb-3">
 							<img src="assets/img/icons/Report.png" alt="img"
 								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Custom Reports</h4>
@@ -321,9 +345,9 @@
 							</div>
 						</div>
 						<div class="card border-light mb-3">
-							<img src="assets/img/icons/PlanningAndManifacturing.png" alt="img"
-								class="text-center"
-								style="width: 4rem; display: block; margin-left: auto; margin-right: auto;">
+							<img src="assets/img/icons/PlanningAndManifacturing.png"
+								alt="img" class="text-center"
+								style="width: 4rem; display: block; margin-left: auto; margin-right: auto; margin-top: 1rem;">
 							<div class="card-body">
 
 								<h4 class="card-title">Planning and Manufacturing</h4>
@@ -354,10 +378,20 @@
 						the other way around. Our new software, Crusher Plant ERP 2.0,
 						takes this to a whole new level, allowing you to automate or
 						switch to automation with ease.</p>
+
+					<div class="row">
+						<div class="column">
+							<img src="assets/img/gallery/Bluedeck_Fuel.svg" alt="VehichleFuelManagement" style="width: 100%">
+						</div>
+						<div class="column">
+							<img src="assets/img/gallery/Bluedeck_Vehicle_Tracking.svg" alt="VehichleTracking" style="width: 100%">
+						</div>
+						<div class="column">
+							<img src="assets/img/gallery/Bluedeck_Whatsapp.svg" alt="WhatsupIntegration" style="width: 100%">
+						</div>
+					</div>
+
 				</div>
-
-
-
 			</div>
 
 		</section>
@@ -418,6 +452,7 @@
 
 		<!-- ======= Testimonials Section ======= -->
 		<section id="testimonials" class="padd-section text-center">
+
 			<div class="container" data-aos="fade-up">
 				<div class="row justify-content-center">
 
@@ -432,17 +467,34 @@
 									<div class="carousel-item  active">
 										<div class="top-top">
 
-											<h2>Testimonial</h2>
+											<h2>Our Users Speack volumes us</h2>
 											<p>I would recommend this ERP for three reasons: The
 												services they provide, they are very committed to the job
 												they have to do. They know what their clients need. And they
 												implement solutions in a way that will work for a business.</p>
 											<h4>
-												TestName<span>Manager - Panchami Groups</span>
+												Chandra Kanth<span>Managing Director - Panchami
+													Groups</span>
 											</h4>
 
 										</div>
 									</div>
+									<div class="carousel-item ">
+										<div class="top-top">
+
+											<h2>Our Users Speack volumes us</h2>
+											<p>Crusher Plant CRM’s has been a powerful, customizable and reliable solution. 
+											The products functionality, flexibility and support has enabled us to automate 
+											our business processes, become more efficient with managing customer relationships a
+											nd improve both performance and quality control. Customer support has been excellent.</p>
+											<h4>
+												Venu Gopal<span>Senior AC Anjaneya Groups
+											</span>
+											</h4>
+
+										</div>
+										</div>
+									
 								</div>
 
 								<div class="btm-btm">
@@ -485,7 +537,8 @@
 							<div>
 								<i class="bi bi-geo-alt"></i>
 								<p>
-									Melkote Cross,<br>Doddaballapura Main Road, Bangalore-561205 Karnataka
+									Melkote Cross,<br>Doddaballapura Main Road,
+									Bangalore-561205 Karnataka
 								</p>
 							</div>
 
@@ -514,33 +567,79 @@
 
 					<div class="col-lg-5 col-md-8">
 						<div class="form">
-							<form action="forms/contact.php" method="post" role="form"
-								class="php-email-form">
-								<div class="form-group">
-									<input type="text" name="name" class="form-control" id="name"
-										placeholder="Your Name" required>
+							<form id="contact-form" method="post" action="contact.php"
+								role="form">
+
+								<div class="messages"></div>
+
+								<div class="controls">
+
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="form_name">Firstname *</label> <input
+													id="form_name" type="text" name="name" class="form-control"
+													placeholder="Please enter your firstname *"
+													required="required" data-error="Firstname is required.">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="form_lastname">Lastname *</label> <input
+													id="form_lastname" type="text" name="surname"
+													class="form-control"
+													placeholder="Please enter your lastname *"
+													required="required" data-error="Lastname is required.">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="form_email">Email *</label> <input
+													id="form_email" type="email" name="email"
+													class="form-control"
+													placeholder="Please enter your email *" required="required"
+													data-error="Valid email is required.">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="form_phone">Phone</label> <input id="form_phone"
+													type="tel" name="phone" class="form-control"
+													placeholder="Please enter your phone">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-md-12">
+											<div class="form-group">
+												<label for="form_message">Message *</label>
+												<textarea id="form_message" name="message"
+													class="form-control" placeholder="Message for me *"
+													rows="4" required="required"
+													data-error="Please,leave us a message."></textarea>
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<input type="submit" class="btn btn-success btn-send"
+												value="Send message">
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-md-12">
+											<p class="text-muted">
+												<strong>*</strong> These fields are required.
+											</p>
+										</div>
+									</div>
 								</div>
-								<div class="form-group mt-3">
-									<input type="email" class="form-control" name="email"
-										id="email" placeholder="Your Email" required>
-								</div>
-								<div class="form-group mt-3">
-									<input type="text" class="form-control" name="subject"
-										id="subject" placeholder="Subject" required>
-								</div>
-								<div class="form-group mt-3">
-									<textarea class="form-control" name="message" rows="5"
-										placeholder="Message" required></textarea>
-								</div>
-								<div class="my-3">
-									<div class="loading">Loading</div>
-									<div class="error-message"></div>
-									<div class="sent-message">Your message has been sent.
-										Thank you!</div>
-								</div>
-								<div class="text-center">
-									<button type="submit">Send Message</button>
-								</div>
+
 							</form>
 						</div>
 					</div>
@@ -552,20 +651,23 @@
 		<!-- ======= Toaster Notification Section ======= -->
 
 		<div class="modal" tabindex="-1" role="dialog" id="notificationModal">
-			<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+			<div
+				class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
 				<!-- Modal content-->
 				<div class="modal-content">
 					<div class="modal-header">
 						<h5 class="modal-title">Recent Notifications</h5>
-						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+						<button type="button" class="btn-close" data-bs-dismiss="modal"
+							aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-					<p>1. Upcoming release date is - 30-12-2021</p>
-					<p>2. Whatsap integration in progress</p>
-					<p>3. Next 24Hrs Server will be down</p>
+						<p>1. Upcoming release date is - 30-12-2021</p>
+						<p>2. Whatsap integration in progress</p>
+						<p>3. Next 24Hrs Server will be down</p>
 					</div>
 					<div class="modal-footer">
-						<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-secondary"
+							data-bs-dismiss="modal">Close</button>
 					</div>
 				</div>
 			</div>
@@ -585,7 +687,8 @@
 			<div class="container">
 				<p>&copy; Copyrights BlueDeck Technos. All rights reserved.</p>
 				<div class="credits">
-					Designed by <a href="https://bluedeck.in/">BlueDeck Technos</a>
+					Designed by <a href="https://bluedeck.in/bluedeck/index.html#">BlueDeck
+						Technos</a>
 				</div>
 			</div>
 		</div>
@@ -615,8 +718,44 @@
 
 </body>
 <script>
+	$(function() {
+
+		$('#contact-form').validator();
+		$('#contact-form').on(
+		'submit',
+			function(e) {
+							if (!e.isDefaultPrevented()) {
+								var url = "/BlueDeckTechnos_Web/contact.php";
+								alert("Hellow");
+
+								$.ajax({
+											type : "POST",
+											url : url,
+											data : $(this).serialize(),
+											success : function(data) {
+												var messageAlert = 'alert-'
+														+ data.type;
+												var messageText = data.message;
+
+												var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>'
+														+ messageText
+														+ '</div>';
+												if (messageAlert && messageText) {
+													$('#contact-form').find(
+															'.messages').html(
+															alertBox);
+													$('#contact-form')[0]
+															.reset();
+												}
+											}
+										});
+								return false;
+							}
+						})
+	});
+
 	function openModal() {
-    	$('#notificationModal').modal('show');
+		$('#notificationModal').modal('show');
 	}
 	$(document).ready(function() {
 
@@ -631,8 +770,6 @@
 				}
 			});
 		});
-		
-		
 
 		// Activate carousel
 		$("#myCarousel").carousel();
@@ -668,6 +805,8 @@
 			$(this).removeClass('transition');
 		});
 	});
+	
+	
 </script>
 
 </html>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="515.8739"
+   height="520.67352"
+   viewBox="0 0 136.49163 137.76153"
+   version="1.1"
+   id="svg1082"
+   inkscape:version="1.2-dev (9ee32be, 2021-06-19)"
+   sodipodi:docname="Bluedeck Vehicle Tracking.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1084"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.80724406"
+     inkscape:cx="216.78698"
+     inkscape:cy="260.76376"
+     inkscape:window-width="1316"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1079">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath930">
+      <path
+         d="M 183.273,826.675 H 774.619 V 32.5465 H 183.273 Z"
+         id="path928" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath958">
+      <path
+         d="M 183.245,826.184 H 694.07 V 32.5114 H 183.245 Z"
+         id="path956" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath982">
+      <path
+         d="M 184.451,826.931 H 576.319 V 32.8344 H 184.451 Z"
+         id="path980" />
+    </clipPath>
+    <rect
+       x="303.66043"
+       y="218.08339"
+       width="789.51709"
+       height="223.60449"
+       id="rect4681" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.10036328,0.92153829)">
+    <g
+       id="g874">
+      <path
+         id="rect5576"
+         style="fill:#1c5072;stroke-width:42.4884;stroke-linecap:round"
+         d="M -0.10036328,-0.92153829 H 136.39127 L 122.63294,136.84 H 12.07047 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.7241px;line-height:1.25;font-family:sans-serif;fill:#ff9400;fill-opacity:1;stroke-width:0.232756"
+         x="23.505169"
+         y="92.470139"
+         id="text18259"><tspan
+           sodipodi:role="line"
+           id="tspan18257"
+           style="fill:#ff9400;fill-opacity:1;stroke-width:0.232756"
+           x="23.505169"
+           y="92.470139" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.76111px;line-height:1.25;font-family:'Oriya Sangam MN';-inkscape-font-specification:'Oriya Sangam MN';fill:#ff9400;fill-opacity:1;stroke-width:0.44425"
+         x="27.903522"
+         y="93.109589"
+         id="text53282"
+         transform="scale(0.94952171,1.0531618)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.76111px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';fill:#ff9400;fill-opacity:1;stroke-width:0.44425"
+           x="27.903522"
+           y="93.109589"
+           id="tspan58264">Shipment</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Oriya Sangam MN';-inkscape-font-specification:'Oriya Sangam MN';stroke-width:0.264583"
+         x="64.072792"
+         y="95.58828"
+         id="text58534"><tspan
+           sodipodi:role="line"
+           id="tspan58532"
+           style="stroke-width:0.264583"
+           x="64.072792"
+           y="95.58828"> </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#ffffff;fill-opacity:1;stroke-width:0.46574"
+         x="65.949547"
+         y="98.391876"
+         id="text59374"
+         transform="scale(1.0016662,0.99833658)"><tspan
+           sodipodi:role="line"
+           id="tspan59372"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.76111px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';fill:#ffffff;fill-opacity:1;stroke-width:0.46574"
+           x="65.949547"
+           y="98.391876">Tracking</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'Oriya Sangam MN';-inkscape-font-specification:'Oriya Sangam MN';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="18.484304"
+         y="105.49395"
+         id="text64778"><tspan
+           sodipodi:role="line"
+           id="tspan64776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="18.484304"
+           y="105.49395">MONITOR SHIPMENT QUANTITY, ARRIVAL AND DEPARTURE </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="18.484304"
+           y="110.22535"
+           id="tspan24392">TIME, VEHICLE DETAILS OF EACH LOADING / UNLOADING</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="18.484304"
+           y="114.95676"
+           id="tspan11286"> </tspan></text>
+      <circle
+         style="fill:#ff9400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path116543"
+         cx="106.10789"
+         cy="97.432518"
+         r="1.041834"
+         inkscape:transform-center-y="1.0833534" />
+      <g
+         id="g7469"
+         transform="matrix(1.2308681,0,0,1.2308681,-13.653845,-18.146203)">
+        <path
+           id="path4898"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           d="M 79.770006,42.180546 C 79.770005,57.783232 68.973985,70.565491 63.988171,78.599881 59.289299,70.852434 48.493278,57.209347 48.206335,42.180546 48.039951,33.466067 55.272104,26.39871 63.988171,26.39871 c 8.716067,10e-7 15.781835,7.065769 15.781835,15.781836 z"
+           sodipodi:nodetypes="scsss" />
+        <path
+           id="path6447"
+           style="fill:#1c5072;fill-opacity:1;stroke-width:0.264583"
+           d="m 63.334152,27.705338 c -4.912741,0.156938 -9.58052,3.150711 -11.886719,7.472656 -0.840058,1.577274 -1.437253,3.596244 -1.5625,5.384766 -0.312057,4.158741 1.171155,8.391335 4.214022,11.289392 3.559908,3.502456 8.971168,4.783011 13.764494,3.407873 4.665167,-1.339948 8.399659,-5.280544 9.629066,-9.957526 1.173361,-4.131946 0.126221,-8.895779 -2.59281,-12.281027 -2.700883,-3.528789 -7.146711,-5.494054 -11.565553,-5.316134 z" />
+      </g>
+      <path
+         id="path7471"
+         style="fill:#ff9400;fill-opacity:1;stroke-width:0.127607"
+         d="m 84.532506,61.564279 c -10e-7,7.525056 -5.206839,13.689842 -7.611459,17.564766 -2.266229,-3.736534 -7.473068,-10.31649 -7.611458,-17.564766 -0.08025,-4.202927 3.407767,-7.611459 7.611458,-7.611459 4.203693,10e-7 7.611459,3.407766 7.611459,7.611459 z"
+         sodipodi:nodetypes="scsss" />
+      <path
+         id="path7473"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.127607"
+         d="m 76.34375,55.65625 c -1.918903,0.144102 -3.892107,1.538481 -4.704253,3.390959 -1.315317,2.762568 0.118502,6.397919 2.944116,7.558507 2.621468,1.20438 6.02229,0.03985 7.32082,-2.543849 1.648299,-2.815545 0.207309,-6.868272 -2.863239,-7.993626 -0.849889,-0.353708 -1.781927,-0.477633 -2.697444,-0.411991 z" />
+      <g
+         id="g2398">
+        <path
+           d="m 53.497626,29.145262 c 0,0.4834 0.61603,0.87585 1.37567,0.87585 0.75997,0 1.376,-0.39245 1.376,-0.87585 0,-0.48372 -0.61603,-0.87618 -1.376,-0.87618 -0.75964,0 -1.37567,0.39246 -1.37567,0.87618"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0106617"
+           id="path40" />
+        <path
+           d="m 74.989755,28.269082 c -0.75985,0 -1.37589,0.39246 -1.37589,0.87618 0,0.4834 0.61604,0.87585 1.37589,0.87585 0.75976,0 1.37568,-0.39245 1.37568,-0.87585 0,-0.48372 -0.61592,-0.87618 -1.37568,-0.87618"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0106617"
+           id="path42" />
+        <path
+           d="m 73.432515,37.845192 c -0.32849,0 -0.5946,-0.26633 -0.5946,-0.5945 0,-0.3287 0.26611,-0.59503 0.5946,-0.59503 0.32827,0 0.59471,0.26633 0.59471,0.59503 0,0.32817 -0.26644,0.5945 -0.59471,0.5945 z m -2.33011,-3.35278 c 0,-0.79771 0.64684,-1.44445 1.44466,-1.44445 0.79781,0 1.44465,0.64674 1.44465,1.44445 0,0.79792 -0.64684,1.44466 -1.44465,1.44466 -0.79782,0 -1.44466,-0.64674 -1.44466,-1.44466 z m -2.05867,2.6055 h -8.22463 c 0,0 -0.41879,-1.16831 0.49502,-1.81558 h 3.6173 3.61751 c 0.91381,0.64727 0.4948,1.81558 0.4948,1.81558 z m -11.727739,-1.16084 c -0.79781,0 -1.44466,-0.64674 -1.44466,-1.44466 0,-0.79771 0.64685,-1.44445 1.44466,-1.44445 0.79781,0 1.44466,0.64674 1.44466,1.44445 0,0.79792 -0.64685,1.44466 -1.44466,1.44466 z m -0.88545,1.90812 c -0.32849,0 -0.59471,-0.26633 -0.59471,-0.5945 0,-0.3287 0.26622,-0.59503 0.59471,-0.59503 0.32827,0 0.59471,0.26633 0.59471,0.59503 0,0.32817 -0.26644,0.5945 -0.59471,0.5945 z m 1.7612,-11.01363 c 0.15236,-0.64737 1.21842,-1.06595 1.21842,-1.06595 1.560979,-0.64727 5.521259,-0.68544 5.521259,-0.68544 0,0 3.96028,0.0382 5.52136,0.68544 0,0 1.06596,0.41858 1.21831,1.06595 l 0.87597,4.15539 H 57.315996 Z m 15.116769,2.74166 -1.10412,-3.3128 c -0.45696,-1.10434 -1.25659,-1.33261 -1.25659,-1.33261 -2.47521,-0.57114 -6.01638,-0.57114 -6.01638,-0.57114 0,0 -3.54117,0 -6.016179,0.57114 0,0 -0.79962,0.22827 -1.25648,1.33261 l -1.10433,3.3128 -1.82763,3.07024 c 0,0 -0.53319,0.88972 -0.53319,2.26038 v 7.19675 h 4.34069 v -1.29455 h 6.397119 6.39701 v 1.29455 h 4.34079 v -7.19675 c 0,-1.37066 -0.53308,-2.26038 -0.53308,-2.26038 l -1.82763,-3.07024"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0106617"
+           id="path44" />
+      </g>
+    </g>
+  </g>
+</svg>
